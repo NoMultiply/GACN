@@ -1,6 +1,6 @@
 GACN
 ====
-Code for [https://dl.acm.org/doi/abs/10.1145/3580305.3599370](Graph Contrastive Learning with Generative Adversarial Network).
+Code for [Graph Contrastive Learning with Generative Adversarial Network](https://dl.acm.org/doi/abs/10.1145/3580305.3599370).
 
 See `scripts.sh` for scripts and parameter settings to train and evaluate GACN.
 
